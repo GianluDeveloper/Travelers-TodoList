@@ -1,6 +1,6 @@
 # Todo List for Travelers
 
-Simple Todo List I built from scratch for collaboratively listing things to bring with us for a travel with my girlfriend.
+Simple Todo List I built from scratch for collaboratively listing things to bring with us for a journey with my girlfriend.
 
 The listing element is an editable HTML, and you can remove elements by clicking on the 💔 icon.
 
